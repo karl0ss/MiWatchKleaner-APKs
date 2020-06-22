@@ -1,15 +1,89 @@
 [
   {
-    "username": "tfstest1@ukridev.org",
-    "password": "BJSS123!"
+    "name": "Google Fit",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleFit.apk"
   },
-    {
-    "username": "tfstest2@ukridev.org",
-    "password": "BJSS123!"
+  {
+    "name": "Google Maps",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleMaps.apk"
   },
-    {
-    "username": "tfstest3@ukridev.org",
-    "password": "BJSS123!"
+  {
+    "name": "Google Quick Search",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleQuickSearch.apk"
   },
-  
+  {
+    "name": "Google TTS",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleTTS.apk"
+  },
+  {
+    "name": "Google Translate",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleTranslate.apk"
+  },
+  {
+    "name": "Google Wear Keyboard",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/WearKeyboard.apk"
+  },
+  {
+    "name": "Google Calculator",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleCalc.apk"
+  },
+  {
+    "name": "Google Clock",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleClock.apk"
+  },
+  {
+    "name": "Google Services",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleServices.apk"
+  },
+  {
+    "name": "Pujie Black",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Pujie.apk"
+  },
+  {
+    "name": "AccuWeather",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AccuWeather.apk"
+  },
+  {
+    "name": "Ultimate Alexa",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/UltimateAlexa.apk"
+  },
+  {
+    "name": "MoreLocale",
+    "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/MoreLocale.apk"
+  },
+  {
+	"name": "IFTTT",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/IFTTT_4.0.0.apk"
+  },
+  {
+	"name": "Mobvoi Fitness",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Mobvoi_Fitness.apk"
+  },
+  {
+	"name": "Mobvoi Health",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Mobvoi_Health.apk"
+  },
+  {
+	"name": "Nav Explorer",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/NavExplorer.apk"
+  },
+  {
+	"name": "Microsoft Outlook",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Outlook.apk"
+  },
+  {
+	"name": "Runtastic",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Runtastic.apk"
+  },
+  {
+	"name": "Shazam",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Shazam.apk"
+  },
+  {
+	"name": "Infinity Loop",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/InfinityLoop.apk"
+  },
+  {
+	"name": "Alberto Locale",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/com.alberto.locale.apk"
 ]

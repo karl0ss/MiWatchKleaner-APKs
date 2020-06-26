@@ -90,5 +90,21 @@
   {
 	"name": "Spotify_KashaMod",
 	"url": "https://github.com/KashaMalaga/SpotifyLite-WearOS/releases/download/1.4.6.89/SpotifyMod_1.4.6.89_Kasha.apk"
+  },
+  {
+	"name": "Stocard",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/stocard.apk"
+  },
+  {
+	"name": "SimpleWeather",
+	"url": "NULL"
+  },
+  {
+	"name": "Wear MultiCalc",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearMultiCalc.apk"
+  },
+  {
+	"name": "Wear Keyboard",
+	"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearKeyboard.apk"
   }
 ]

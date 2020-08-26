@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"name": "Google Assistant (KashaMod)",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/KashaMod_GoogleAssistant_11.15.14.25v23.apk"
 	},
@@ -105,20 +106,33 @@
 	{
 		"name": "Wear Keyboard",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearKeyboard.apk"
-	}, {
+	},
+	{
 		"name": "Feel The Wear",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Feelthewear.apk"
-	}, {
+	},
+	{
 		"name": "WearCodes",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearCodes.apk"
-	}, {
+	},
+	{
 		"name": "WearCompass",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearCompass.apk"
-	}, {
+	},
+	{
 		"name": "BubbleCloud",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/bubblecloudtile.apk"
-	}, {
+	},
+	{
 		"name": "Simple Weather",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/simpleweather_base.apk"
+	},
+	{
+		"name": "Alexa Launcher",
+		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AlexaLauncher.apk"
+	},
+	{
+		"name": "Google Keyboard",
+		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleKeyboard.apk"
 	}
 ]

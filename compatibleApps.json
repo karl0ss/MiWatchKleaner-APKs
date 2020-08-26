@@ -17,7 +17,7 @@
     {
         "name": "Alexa Listens",
         "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AlexaListens.apk",
-		"Klean": "X"
+		"Klean": ""
     },
     {
         "name": "Apple Watchface (eng)",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Google Assistant (KashaMod)",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/KashaMod_GoogleAssistant_11.15.14.25v23.apk",
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/KashaMod_GoogleAssistant.apk",
 		"Klean": ""
     },
     {
@@ -162,7 +162,7 @@
 	{
 		"name": "Ultimate Alexa",
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/UltimateAlexaf.apk",
-		"Klean": ""
+		"Klean": "X"
 	},
     {
         "name": "Wear Keyboard",

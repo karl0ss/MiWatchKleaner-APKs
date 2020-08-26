@@ -126,7 +126,11 @@
     {
         "name": "Stocard",
         "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/stocard.apk"
-    },
+	},
+	{
+		"name": "Ultimate Alexa",
+		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/UltimateAlexaf.apk"
+	},
     {
         "name": "Wear Keyboard",
         "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearKeyboard.apk"

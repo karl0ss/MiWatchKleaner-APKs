@@ -1,154 +1,192 @@
 [
     {
         "name": "AccuWeather",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AccuWeather.apk"
+		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AccuWeather.apk",
+		"Klean": ""
     },
     {
         "name": "Alberto Locale",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/com.alberto.locale.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/com.alberto.locale.apk",
+		"Klean": ""
     },
     {
         "name": "Alexa Launcher",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AlexaLauncher.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AlexaLauncher.apk",
+		"Klean": "X"
     },
     {
         "name": "Alexa Listens",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AlexaListens.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AlexaListens.apk",
+		"Klean": "X"
     },
     {
         "name": "Apple Watchface (eng)",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AppleWatchFace%28eng%29.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/AppleWatchFace%28eng%29.apk",
+		"Klean": ""
     },
     {
         "name": "BubbleCloud",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/bubblecloudtile.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/bubblecloudtile.apk",
+		"Klean": ""
     },
     {
         "name": "Feel The Wear",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Feelthewear.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Feelthewear.apk",
+		"Klean": ""
     },
     {
         "name": "GPSup",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/GPSup.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/GPSup.apk",
+		"Klean": ""
     },
     {
         "name": "Google Assistant (KashaMod)",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/KashaMod_GoogleAssistant_11.15.14.25v23.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/KashaMod_GoogleAssistant_11.15.14.25v23.apk",
+		"Klean": ""
     },
     {
         "name": "Google Calculator",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleCalc.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleCalc.apk",
+		"Klean": ""
     },
     {
         "name": "Google Chrome",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleChrome.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleChrome.apk",
+		"Klean": ""
     },
     {
         "name": "Google Clock",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleClock.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleClock.apk",
+		"Klean": ""
     },
     {
         "name": "Google Fit",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleFit.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleFit.apk",
+		"Klean": ""
     },
     {
         "name": "Google Keyboard",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleKeyboard.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleKeyboard.apk",
+		"Klean": "X"
     },
     {
         "name": "Google Maps",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleMaps.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleMaps.apk",
+		"Klean": "X"
     },
     {
         "name": "Google Quick Search",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleQuickSearch.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleQuickSearch.apk",
+		"Klean": "X"
     },
     {
         "name": "Google Services",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleServices.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleServices.apk",
+		"Klean": ""
     },
     {
         "name": "Google TTS",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleTTS.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleTTS.apk",
+		"Klean": "X"
     },
     {
         "name": "Google Translate",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleTranslate.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleTranslate.apk",
+		"Klean": "X"
     },
     {
         "name": "Google Wear Keyboard",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/WearKeyboard.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/WearKeyboard.apk",
+		"Klean": ""
     },
     {
         "name": "IFTTT",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/IFTTT_4.0.0.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/IFTTT_4.0.0.apk",
+		"Klean": ""
     },
     {
         "name": "Infinity Loop",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/InfinityLoop.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/InfinityLoop.apk",
+		"Klean": ""
     },
     {
         "name": "Microsoft Outlook",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Outlook.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Outlook.apk",
+		"Klean": ""
     },
     {
         "name": "Mobvoi Fitness",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Mobvoi_Fitness.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Mobvoi_Fitness.apk",
+		"Klean": ""
     },
     {
         "name": "Mobvoi Health",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Mobvoi_Health.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Mobvoi_Health.apk",
+		"Klean": ""
     },
     {
         "name": "Nav Explorer",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/NavExplorer.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/NavExplorer.apk",
+		"Klean": ""
     },
     {
         "name": "Pujie Black",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Pujie.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Pujie.apk",
+		"Klean": "X"
     },
     {
         "name": "Runtastic",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Runtastic.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Runtastic.apk",
+		"Klean": ""
     },
     {
         "name": "Shazam",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Shazam.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/Shazam.apk",
+		"Klean": ""
     },
     {
         "name": "Simple Weather",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/simpleweather_base.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/simpleweather_base.apk",
+		"Klean": ""
     },
     {
         "name": "Spotify (KashaMod)",
-        "url": "https://github.com/KashaMalaga/SpotifyLite-WearOS/releases/download/1.4.6.89/SpotifyMod_1.4.6.89_Kasha.apk"
+        "url": "https://github.com/KashaMalaga/SpotifyLite-WearOS/releases/download/1.4.6.89/SpotifyMod_1.4.6.89_Kasha.apk",
+		"Klean": "X"
     },
     {
         "name": "Stocard",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/stocard.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/stocard.apk",
+		"Klean": ""
 	},
 	{
 		"name": "Ultimate Alexa",
-		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/UltimateAlexaf.apk"
+		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/UltimateAlexaf.apk",
+		"Klean": ""
 	},
     {
         "name": "Wear Keyboard",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearKeyboard.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearKeyboard.apk",
+		"Klean": ""
     },
     {
         "name": "Wear MultiCalc",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearMultiCalc.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearMultiCalc.apk",
+		"Klean": ""
     },
     {
         "name": "WearCodes",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearCodes.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearCodes.apk",
+		"Klean": ""
     },
     {
         "name": "WearCompass",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearCompass.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearCompass.apk",
+		"Klean": ""
     },
     {
         "name": "WhatsApp",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/whatsApp.apk"
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/whatsApp.apk",
+		"Klean": ""
     }
 ]

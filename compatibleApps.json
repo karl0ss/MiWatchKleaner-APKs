@@ -95,7 +95,7 @@
 		"Klean": "X"
     },
     {
-        "name": "Google Wear Keyboard",
+        "name": "Google Wear Keyboard (GBoard)",
         "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/WearKeyboard.apk",
 		"Klean": ""
     },
@@ -164,11 +164,6 @@
 		"url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/UltimateAlexaf.apk",
 		"Klean": "X"
 	},
-    {
-        "name": "Wear Keyboard (GBoard)",
-        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearKeyboard.apk",
-		"Klean": ""
-    },
     {
         "name": "Wear MultiCalc",
         "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Others/WearMultiCalc.apk",

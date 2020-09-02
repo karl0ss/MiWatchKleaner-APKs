@@ -70,9 +70,14 @@
 		"Klean": "X"
     },
     {
-        "name": "Google Maps",
+        "name": "Google Maps (Wear Os)",
         "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/GoogleMaps.apk",
 		"Klean": "X"
+    },
+    {
+        "name": "Google Maps (Full)",
+        "url": "http://kithub.cf/Karl/MiWatchKleaner-APKs/raw/master/Google/FullGoogleMaps.apk",
+        "Klean": ""
     },
     {
         "name": "Google Quick Search",
